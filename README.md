@@ -1,5 +1,5 @@
 # NN-Classify
-NN-Classify - Insurance Availability Prediction Neural Network
+NN-Classify - Insurance Availability Classification Neural Network
 The Insurance Availability project is aimed at developing a deep learning neural network that can predict if a person has insurance based on multiple factors, like age and affordability. By analyzing these features, the model can provide insights into the classification problem.
 
 ### Features
